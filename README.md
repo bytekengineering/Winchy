@@ -32,8 +32,8 @@ Tienes como ejemplos:
  - Frontal: [winchy_wheel_opt2.stl](https://github.com/bytekengineering/winchy/blob/master/STL/pala.stl)
 
 ## Web oficial
-[bytek.info](http://bytek.info/)
-[Más info sobre winchy](http://bytek.info/phoenix#winchykit)
+ - [bytek.info](http://bytek.info/)
+ - [Más info sobre winchy](http://bytek.info/phoenix#winchykit)
 
 ## Wiki
  - Próximamente tutoriales
