@@ -5,12 +5,14 @@
 
 ## Piezas impresas
 A continuación se presentan las piezas impresas que se incluyen en el kit. Todas las piezas se pueden imprimir sin soportes.  
+
 | Cant. | Nombre                | Link                                                                                    |
-| ----- |:---------------------:| ---------------------------------------------------------------------------------------:|
+| :---: |:---------------------:| :--------------------------------------------------------------------------------------:|
 | 1     | winchy_nowarping.stl  | [Ver](https://github.com/bytekengineering/winchy/blob/master/STL/winchy_nowarping.stl)  |
 | 2     | winchy_wheel.stl      | [Ver](https://github.com/bytekengineering/winchy/blob/master/STL/winchy_wheel.stl)      |
 | 1     | mascara_frontside.stl | [Ver](https://github.com/bytekengineering/winchy/blob/master/STL/mascara_frontside.stl) |
 | 1     | mascara_backside.stl  | [Ver](https://github.com/bytekengineering/winchy/blob/master/STL/mascara_backside.stl)  |  
+
 ![winchy kit](https://github.com/bytekengineering/winchy/blob/master/STL/winchy_kit.PNG "winchy kit")
 
 ### Alternativas
