@@ -19,7 +19,8 @@ A continuación se presentan las piezas impresas que se incluyen en el kit. Toda
 Hay piezas alternativas a las de la tabla anterior.
  - Si llevan el sufijo nowarping tienen modificaciones para facilitar la impresión.
  - Si llevan el sufijo 'noscrew' están diseñadas para no necesitar tornillos a la hora de encajar la tarjeta **bytek phoenix** en el cuerpo.  
-Las siguientes piezas sustituyen a [winchy_nowarping.stl](https://github.com/bytekengineering/winchy/blob/master/STL/winchy_nowarping.stl).
+
+ Las siguientes piezas sustituyen a [winchy_nowarping.stl](https://github.com/bytekengineering/winchy/blob/master/STL/winchy_nowarping.stl).
  - [winchy.stl](https://github.com/bytekengineering/winchy/blob/master/STL/winchy.stl)
  - [winchy_noscrew.stl](https://github.com/bytekengineering/winchy/blob/master/STL/winchy_noscrew.stl)
  - [winchy_noscrew_nowarping.stl](https://github.com/bytekengineering/winchy/blob/master/STL/winchy_noscrew_nowarping.stl).
