@@ -35,7 +35,8 @@ Tienes como ejemplos:
  - [bytek.info](http://bytek.info/)
  - [Más info sobre winchy](http://bytek.info/phoenix#winchykit)
 
-## Wiki
+## Wiki - Tutoriales
+ - [Guía de montaje](https://docs.google.com/document/d/1RpQKoiCZQY_tyuJEID8WQEXVPrsOutuznivVgkQZnyw/edit#heading=h.z6ne0og04bp5)
  - Próximamente tutoriales
  
 ## Licencia
