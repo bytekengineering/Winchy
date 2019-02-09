@@ -25,11 +25,17 @@ Hay piezas alternativas a las de la tabla anterior.
  - [winchy_noscrew.stl](https://github.com/bytekengineering/winchy/blob/master/STL/winchy_noscrew.stl)
  - [winchy_noscrew_nowarping.stl](https://github.com/bytekengineering/winchy/blob/master/STL/winchy_noscrew_nowarping.stl).
 
-### Customiza a winchy a tu gusto
-**Winchy** se puede customizar al gusto. Lo más sencillo es modificar las ruedas o añadirle frontales diferentes según la función.  
+### Complementos: Customiza a winchy a tu gusto
+**Winchy** se puede customizar al gusto. Está pensado para que sea sencillo diseñar y montar nuevos complementos y así poder explotar todas las posibilidades que ofrece. Lo más sencillo es modificar las ruedas o añadirle frontales diferentes según la función.  
 Tienes como ejemplos:
  - Rueda adicional: [winchy_wheel_opt2.stl](https://github.com/bytekengineering/winchy/blob/master/STL/winchy_wheel_opt2.stl)
  - Frontal: [winchy_wheel_opt2.stl](https://github.com/bytekengineering/winchy/blob/master/STL/pala.stl)
+ 
+### Frontales
+En esta sección se recopilan los frontales extra que se han diseñado.  
+ - Siguelíneas bq simple ([siguelineas_bq_kit_1.stl](https://github.com/bytekengineering/winchy/blob/master/STL/siguelineas_bq_kit_1.stl)): Complemento para poder diseñar un siguelíneas utilizando un sensor IR del BQ Zum kit/BQ printbot evolution.
+ - Siguelíneas bq doble ([siguelineas_bq_kit_2.stl](https://github.com/bytekengineering/winchy/blob/master/STL/siguelineas_bq_kit_2.stl)): Complemento para poder diseñar un siguelíneas utilizando dos sensores IR del BQ Zum kit/BQ printbot evolution.
+ - Siguelíneas bq renacuajo ([siguelineas_bq_renacuajo.stl](https://github.com/bytekengineering/winchy/blob/master/STL/siguelineas_bq_renacuajo.stl)): Sin probar. Complemento para poder diseñar un siguelíneas utilizando dos sensores IR del BQ renacuajo.
 
 ## Web oficial
  - [bytek.info](http://bytek.info/)
